@@ -2,7 +2,7 @@
   "name": "slim-mom-fe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://PopoacaAndrei.github.io/Slim-mom-fe",
+  "homepage": "https://PopoacaAndrei.github.io/Slim-mom-fe/",
   "dependencies": {
     "@chakra-ui/icons": "^2.1.1",
     "@chakra-ui/react": "^2.8.2",
